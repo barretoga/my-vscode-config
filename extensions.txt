@@ -1,0 +1,23 @@
+Extensions installed on WSL: Ubuntu:
+antfu.iconify
+astro-build.astro-vscode
+bradlc.vscode-tailwindcss
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+github.vscode-github-actions
+gitlab.gitlab-workflow
+ms-ceintl.vscode-language-pack-pt-br
+ms-playwright.playwright
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-vsliveshare.vsliveshare
+naumovs.color-highlight
+octref.vetur
+seatonjiang.gitmoji-vscode
+streetsidesoftware.code-spell-checker
+svelte.svelte-vscode
+tobermory.es6-string-html
+vue.volar
+waderyan.gitblame

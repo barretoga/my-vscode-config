@@ -1,0 +1,108 @@
+{
+  "cSpell.language": "en,pt_BR",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "workbench.iconTheme": "catppuccin-mocha",
+  "editor.fontSize": 16,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "cSpell.userWords": [
+    "choosed",
+    "gantt",
+    "ganttastic",
+    "semibold",
+    "tailwindcss",
+    "vuedraggable",
+    "vuex"
+  ],
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "vscode_vibrancy.type": "light",
+  "vscode_vibrancy.theme": "Default Light",
+  "vscode_vibrancy.opacity": 1,
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.explorerKind": "external",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash",
+      "path": ["C:\\Program Files\\Git\\bin\\bash.exe"],
+      "icon": "terminal-bash"
+    },
+    "Ubuntu (WSL)": {
+      "path": "C:\\WINDOWS\\System32\\wsl.exe",
+      "args": ["-d", "Ubuntu"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "gitlab.certKey": "",
+  "gitlab.aiassist.apiKey": "",
+  "git.autofetch": true,
+  "[python]": {
+    "editor.formatOnType": true
+},
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.colorCustomizations": {
+  "tree.indentGuidesStroke": "#00f3e7"
+},
+  "explorer.confirmDelete": false,
+  "svelte.enable-ts-plugin": true,
+  "redhat.telemetry.enabled": true,
+  "window.titleBarStyle": "custom",
+  "background.fullscreen": {
+    "opacity": 0.91,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "glassit.alpha": 250,
+  "remote.autoForwardPortsSource": "hybrid",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "editor.tabCompletion": "on",
+  "editor.wordBasedSuggestions": "matchingDocuments",
+  "typescript.validate.enable": true,
+  "typescript.format.enable": true,
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.disableAutomaticTypeAcquisition": false,
+  "typescript.maxTsServerMemory": 4096,
+  "typescript.tsserver.log": "off",
+  "typescript.tsserver.trace": "off",
+  "files.associations": {
+      "*.ts": "typescript",
+      "*.tsx": "typescriptreact"
+  },
+  "path-intellisense.mappings": {
+      "@src": "${workspaceRoot}/src"
+  },
+  "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+  ],
+  "files.autoSave": "afterDelay",
+  "git.confirmSync": false,
+}
